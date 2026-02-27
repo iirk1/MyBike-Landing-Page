@@ -8,7 +8,7 @@ The project demonstrates strong fundamentals in semantic markup, SCSS architectu
 ## **LIVE DEMO**
 
 **Experience the live website:**
-👉 [https://github.com/iirk1/MyBike-Landing-Page]
+👉 [https://iirk1.github.io/MyBike-Landing-Page/]
 
 ---
 
