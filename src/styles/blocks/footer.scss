@@ -1,0 +1,18 @@
+.footer {
+  background-image: url('./../images/footer-bg-mobile.jpg');
+  background-size: cover;
+  background-position: center;
+
+  height: 200px;
+  width: 100%;
+
+  @include onTablet {
+    background-image: url('./../images/footer-bg-tablet.jpg');
+    height: 480px;
+  }
+  @include onDesktop {
+    background-image: url('./../images/footer-bg-desktop.jpg');
+    height: 555px;
+    background-position: top center;
+  }
+}
