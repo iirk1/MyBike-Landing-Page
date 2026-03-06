@@ -8,7 +8,7 @@ The project demonstrates strong fundamentals in semantic markup, SCSS architectu
 ## **LIVE DEMO**
 
 **Experience the live website:**
-👉 [https://iirk1.github.io/MyBike-Landing-Page/]
+👉 [MyBike Landing Page] (https://iirk1.github.io/MyBike-Landing-Page/)
 
 ---
 
@@ -27,7 +27,7 @@ The project demonstrates strong fundamentals in semantic markup, SCSS architectu
 ### **Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/project-name.git
+git clone https://github.com/iirk1/MyBike-Landing-Page.git
 cd project-name
 ```
 
